@@ -25,7 +25,7 @@ export const siteUrl =
  * ------------------------------------------------------------------ */
 
 export const profile = {
-  name: "Harsha Bothra",
+  name: "Hrasha Bothraaa",
   initials: "HB",
   role: "Business Analyst",
   /** Sits under the name in the hero */
