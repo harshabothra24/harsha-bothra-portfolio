@@ -28,7 +28,7 @@ const plexMono = IBM_Plex_Mono({
 });
 
 const description =
-  "Hrasha Bothraaa — Business Analyst with an MSc in Business Analytics & Consultancy. Market research, data and process analytics, Power BI and Tableau. Based in Hyderabad, India.";
+  "Harsha Bothra — Business Analyst with an MSc in Business Analytics & Consultancy. Market research, data and process analytics, Power BI and Tableau. Based in Hyderabad, India.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -39,12 +39,12 @@ export const metadata: Metadata = {
   description,
   applicationName: `${profile.name} — Portfolio`,
   keywords: [
-    "Hrasha Bothraaa",
-    "Hrasha Bothraaa consulting",
-    "Hrasha Bothraaa finance",
-    "Hrasha Bothraaa management consulting",
-    "Hrasha Bothraaa business analyst",
-    "Hrasha Bothraaa Hyderabad",
+    "Harsha Bothra",
+    "Harsha Bothra consulting",
+    "Harsha Bothra finance",
+    "Harsha Bothra management consulting",
+    "Harsha Bothra business analyst",
+    "Harsha Bothra Hyderabad",
     "business analyst portfolio",
     "business analytics consultant",
     "MSc Business Analytics and Consultancy",
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
     description,
     url: siteUrl,
     locale: "en_GB",
-    firstName: "Hrasha",
-    lastName: "Bothraaa",
+    firstName: "Harsha",
+    lastName: "Bothra",
   },
   twitter: {
     card: "summary_large_image",
@@ -107,8 +107,8 @@ const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
   name: profile.name,
-  givenName: "Hrasha",
-  familyName: "Bothraaa",
+  givenName: "Harsha",
+  familyName: "Bothra",
   url: siteUrl,
   email: `mailto:${profile.email}`,
   jobTitle: profile.role,
